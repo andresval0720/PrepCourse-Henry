@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-This is a mock repository for the Henry Prep Course Module 2
+This is a test of how to copy and clone a repository from Git Hub to my local Desktop
